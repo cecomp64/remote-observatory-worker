@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> **This repository has moved.** The rig agent (robs) now lives in
+> [`altair-observatory-system/rig-agent`](https://github.com/cecomp64/altair-observatory-system/tree/main/rig-agent),
+> merged with its full history. This repository is archived and read-only; open issues and
+> pull requests there.
+
 # remote-observatory-worker
 
 The observatory-side worker for the remote observatory system: it runs
